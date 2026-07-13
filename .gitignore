@@ -1,0 +1,9 @@
+# Build artifacts
+filesystem_sim
+*.o
+*.out
+*.dSYM/
+
+# Runtime test files created by the simulator
+*.txt
+!README.md
